@@ -1,0 +1,27 @@
+.header {
+  --ion-background-color: #d0a2f7;
+}
+.row {
+  background-color: #fff8c9;
+}
+ion-fab-button {
+  --background: #bc7af9;
+}
+
+.check {
+  color: #9400ff;
+  width: 25px;
+}
+.delete {
+  color: red;
+  margin-right: 20px;
+}
+.edit {
+  color: green;
+}
+.text {
+  font-size: 16px;
+}
+.underline {
+  text-decoration: line-through;
+}
